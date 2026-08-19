@@ -20,6 +20,8 @@
 - **4种工作模式** — 监护 / 手动除颤 / AED / 起搏
 
 ---
+## 运行截图：<img width="1736" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8ed329f-591c-43bf-afe6-037f5f64b0de" />
+
 
 ## 🚀 下载与运行
 

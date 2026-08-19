@@ -55,8 +55,7 @@ python d3_v11.31.py
 
 ## 📖 完整说明书
 
-见仓库根目录下的 PDF 文件：[说明书](./Mindray%20BeneHeart%20D3%20Sim%20v11.31%20临床安全与复盘系统%20（BSSS-EMC璧山中学电子科教与融媒体发展促进中心%20电子平台%20第二大子系统）%20程序安装及操作说明书.pdf)
-
+见仓库根目录下的 PDF 文件：[📄 D3 Sim 完整使用说明书](./Mindray%20BeneHeart%20D3%20Sim%20v11.31%20临床安全与复盘系统%EF%BC%88BSSS-EMC%E7%92%A7%E5%B1%B1%E4%B8%AD%E5%AD%A6%E7%94%B5%E5%AD%90%E7%A7%91%E6%95%99%E4%B8%8E%E8%9E%8D%E5%AA%92%E4%BD%93%E5%8F%91%E5%B1%95%E4%BF%83%E8%BF%9B%E4%B8%AD%E5%BF%83%E7%94%B5%E5%AD%90%E5%B9%B3%E5%8F%B0%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%AD%90%E7%B3%BB%E7%BB%9F%EF%BC%89%E7%A8%8B%E5%BA%8F%E5%AE%89%E8%A3%85%E5%8F%8A%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf)
 ---
 
 ## 📄 许可证
